@@ -19,6 +19,7 @@ Easy Navigation: Direct links between the Home and Contact pages for easy browsi
 Technologies Used
 
 HTML5: For structuring the content of the Home and Contact pages.
+
 CSS3: For styling, layout, and ensuring the website is responsive.
 
 How to View the Portfolio:-
