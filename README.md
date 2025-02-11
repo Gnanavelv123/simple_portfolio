@@ -1,8 +1,10 @@
 # simple_portfolio
 Welcome to my portfolio! This repository showcases my skills. I am worked with HTML,CSS,Javascript for became a frontened developer.
+
 My Portfolio Website
 
-About This Project
+About This Project:
+
 This portfolio includes two basic pages:
 
 Home Page: An introduction to who I am, highlighting my skills and the technologies I work with.
